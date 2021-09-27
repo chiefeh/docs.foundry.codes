@@ -20,6 +20,9 @@ jobs:
     - name: Bundle Install
       run: |
         bundle install
+    - name: which Middleman
+      run: |
+        which middleman
 #    - name: Build and test
 #      run: |
 #        bundle exec middleman build
