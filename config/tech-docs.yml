@@ -3,7 +3,7 @@ host: https://docs.foundry.codes
 
 # Header-related options
 show_govuk_logo: false
-service_name: Defence Digital Foundry
+service_name: Foundry Codes
 service_link: /
 phase: Alpha
 
