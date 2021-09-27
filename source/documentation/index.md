@@ -4,4 +4,4 @@ This repository provides guidance and information on the services which make up 
 
 ## Who is this user guide for?
 
-This documentation is for anyone interested in the Technology Services we run for staff and the teams who operate them.
+This documentation is for anyone interested in the technology and digital services we run for staff and the teams who operate them.
